@@ -18,7 +18,7 @@ const Sidebar = () => {
             icon: BsBellFill
         },
         {
-            label: 'Pofile',
+            label: 'Profile',
             href: '/users/123',
             icon: FaUser
         }
